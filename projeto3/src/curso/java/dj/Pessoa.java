@@ -7,7 +7,6 @@ public class Pessoa {
 	
 	private int idade;
 	
-	private nuseioq
 
 	public String getNome() {
 		return nome;
